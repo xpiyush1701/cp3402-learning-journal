@@ -8,6 +8,7 @@
 I created SCSS partials for variables, mixins, and base styles, and imported them into a main style.scss file. I used the Live Sass Compiler extension in VS Code to compile the SCSS into CSS. I encountered an issue where the CSS didn’t load correctly in the browser, but I resolved it by checking the file paths and ensuring the compiler was running.
 
 Sass Guide: https://sass-lang.com/guide/ 
+
 Live Sass Compiler VSC: https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
 
 ### Estimated Hours
